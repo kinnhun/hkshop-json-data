@@ -1,0 +1,879 @@
+[
+  {
+    "id": "chatgpt-plus",
+    "category": "AI",
+    "name": "ChatGPT Plus",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "shared-1-device",
+        "packageName": "ChatGPT Plus dùng chung",
+        "accountType": "Dùng chung",
+        "duration": "1 tháng",
+        "price": 59000,
+        "extraFee": 10000,
+        "note": "Dùng chung 4 người, sử dụng được 1 thiết bị",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "shared-2-devices",
+        "packageName": "ChatGPT Plus dùng chung",
+        "accountType": "Dùng chung",
+        "duration": "1 tháng",
+        "price": 89000,
+        "extraFee": 10000,
+        "note": "Dùng chung 4 người, sử dụng được 2 thiết bị",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "owner-add-mail-reset",
+        "packageName": "ChatGPT Plus chính chủ add mail",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 169000,
+        "extraFee": 10000,
+        "note": "Gia hạn mất dữ liệu cũ",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "owner-add-mail-keep-data",
+        "packageName": "ChatGPT Plus chính chủ add mail",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 250000,
+        "extraFee": 10000,
+        "note": "Gia hạn giữ được dữ liệu, không giới hạn thiết bị",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "owner-renew-old-plus",
+        "packageName": "ChatGPT Plus chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 220009,
+        "extraFee": 10000,
+        "note": "Gia hạn trên tài khoản đã từng nâng Plus",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "owner-new-plus",
+        "packageName": "ChatGPT Plus chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 189000,
+        "extraFee": 10000,
+        "note": "Nâng trên tài khoản chưa từng nâng Plus",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "owner-1-year",
+        "packageName": "ChatGPT Plus chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 1800000,
+        "extraFee": 100000,
+        "note": "Chính chủ",
+        "warranty": "KBH",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "chatgpt-go",
+    "category": "AI",
+    "name": "ChatGPT Go",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-1-year",
+        "packageName": "ChatGPT Go chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 589000,
+        "extraFee": 100000,
+        "note": "Cung cấp tài khoản mật khẩu",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "super-grok",
+    "category": "AI",
+    "name": "Super Grok",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "shared-1-month",
+        "packageName": "Super Grok dùng chung",
+        "accountType": "Dùng chung",
+        "duration": "1 tháng",
+        "price": 145000,
+        "extraFee": 10000,
+        "note": "Dùng chung 5 người, sử dụng 2 thiết bị",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "owner-1-month",
+        "packageName": "Super Grok chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 400000,
+        "extraFee": 10000,
+        "note": "Không giới hạn thiết bị",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "perplexity",
+    "category": "AI",
+    "name": "Perplexity",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "pro-1-year",
+        "packageName": "Perplexity Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 525000,
+        "extraFee": 10000,
+        "note": "Không giới hạn thiết bị, mail cá nhân",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "gemini-pro-drive",
+    "category": "AI",
+    "name": "Gemini Pro + 2TB Drive",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-1-year",
+        "packageName": "Gemini Pro + 2TB Drive chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 599000,
+        "extraFee": 10000,
+        "note": "Mail cá nhân, dùng ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "antigravity-ultra",
+    "category": "AI",
+    "name": "Antigravity Ultra",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "gemini-ultra-slot",
+        "packageName": "Gemini Ultra 1 Slot, Antigravity Ultra",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 450000,
+        "extraFee": 0,
+        "note": "Gói Ultra 1 slot",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "claude-ai",
+    "category": "AI",
+    "name": "Claude AI",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-1-month",
+        "packageName": "Claude AI chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 420000,
+        "extraFee": 10000,
+        "note": "Mail cá nhân, dùng ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "veo-3",
+    "category": "AI làm video",
+    "name": "Veo 3",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "ultra-45k-credit",
+        "packageName": "Veo 3 Ultra 45.000 credit",
+        "accountType": "Tài khoản cấp dùng riêng",
+        "duration": "1 tháng",
+        "price": 189000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "ultra-fast-unlimited",
+        "packageName": "Veo 3 Ultra vô hạn Veo 3 Fast",
+        "accountType": "Tài khoản cấp dùng riêng",
+        "duration": "1 năm",
+        "price": 1389000,
+        "extraFee": 100000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "kling",
+    "category": "AI làm video",
+    "name": "Kling",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "standard-owner",
+        "packageName": "Kling Standard",
+        "accountType": "Tài khoản chính chủ",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "Tạm dừng",
+        "extraFee": 10000,
+        "note": "Ổn định, không giới hạn thiết bị",
+        "warranty": "full",
+        "saleStatus": "paused"
+      },
+      {
+        "id": "pro-owner",
+        "packageName": "Kling Pro",
+        "accountType": "Tài khoản chính chủ",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "Tạm dừng",
+        "extraFee": 10000,
+        "note": "Ổn định, không giới hạn thiết bị",
+        "warranty": "full",
+        "saleStatus": "paused"
+      },
+      {
+        "id": "premium-owner",
+        "packageName": "Kling Premium",
+        "accountType": "Tài khoản chính chủ",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "Báo riêng",
+        "extraFee": 10000,
+        "note": "Ổn định, không giới hạn thiết bị",
+        "warranty": "full",
+        "saleStatus": "quote"
+      },
+      {
+        "id": "standard-credit",
+        "packageName": "Kling Standard buff credit 1k-39k credit",
+        "accountType": "Tài khoản cấp",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "Tạm dừng",
+        "extraFee": 10000,
+        "note": "Ổn định, không giới hạn thiết bị",
+        "warranty": "full",
+        "saleStatus": "paused"
+      }
+    ]
+  },
+  {
+    "id": "hailuo",
+    "category": "AI làm video",
+    "name": "Hailuo",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "standard-owner",
+        "packageName": "Hailuo Standard",
+        "accountType": "Tài khoản chính chủ",
+        "duration": "1 tháng",
+        "price": 170000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "unlimited-pro",
+        "packageName": "Hailuo Unlimited, Pro",
+        "accountType": "Tài khoản chính chủ",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "Báo giá riêng",
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "quote"
+      }
+    ]
+  },
+  {
+    "id": "gamma-ai",
+    "category": "AI làm video",
+    "name": "Gamma AI",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "plus",
+        "packageName": "Gamma Plus",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 170000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "pro",
+        "packageName": "Gamma Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 300000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "higgsfield-ai",
+    "category": "AI làm video",
+    "name": "Higgsfield.ai",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "creator-ultimate",
+        "packageName": "Creator, Ultimate",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "IB báo giá",
+        "extraFee": 10000,
+        "note": "Liên hệ để báo gói phù hợp",
+        "warranty": "full",
+        "saleStatus": "quote"
+      }
+    ]
+  },
+  {
+    "id": "suno",
+    "category": "AI làm video",
+    "name": "Suno",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "pro",
+        "packageName": "Suno Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 209000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "heygen-ai",
+    "category": "AI làm video",
+    "name": "Heygen AI",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "creator",
+        "packageName": "HeyGen Creator",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 389000,
+        "extraFee": 10000,
+        "note": "Tham gia vào team, full tính năng Creator",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "vidiq-boost",
+    "category": "AI làm video",
+    "name": "VidIQ boost",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "boost",
+        "packageName": "VidIQ boost",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 189000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "elevenlab",
+    "category": "AI giọng đọc",
+    "name": "Elevenlab",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "creator-3-months",
+        "packageName": "Elevenlab Creator",
+        "accountType": "Chính chủ",
+        "duration": "3 tháng",
+        "price": 350000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "minimax",
+    "category": "AI giọng đọc",
+    "name": "MiniMax",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "creator",
+        "packageName": "MiniMax Creator",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "Tạm ngưng",
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "paused"
+      },
+      {
+        "id": "standard",
+        "packageName": "MiniMax Standard",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": null,
+        "priceLabel": "Liên hệ",
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "quote"
+      }
+    ]
+  },
+  {
+    "id": "cursor",
+    "category": "AI coding",
+    "name": "Cursor",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "pro-1-month",
+        "packageName": "Cursor Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 389000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "1MONTH",
+        "saleStatus": "active"
+      },
+      {
+        "id": "pro-1-year",
+        "packageName": "Cursor Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 1700000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "pro-1-year-paused",
+        "packageName": "Cursor Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": null,
+        "priceLabel": "Tạm ngưng",
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "2MONTH",
+        "saleStatus": "paused"
+      }
+    ]
+  },
+  {
+    "id": "augment",
+    "category": "AI coding",
+    "name": "Augment",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "15k-15-days",
+        "packageName": "Augment 15k request",
+        "accountType": "Chính chủ",
+        "duration": "15 ngày",
+        "price": null,
+        "priceLabel": "Tạm ngưng",
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "paused"
+      },
+      {
+        "id": "30k-1-month",
+        "packageName": "Augment 30k request",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 350000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "github-copilot",
+    "category": "AI coding",
+    "name": "Github Copilot",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "account-2-years",
+        "packageName": "Github Copilot",
+        "accountType": "Tài khoản cấp",
+        "duration": "2 năm",
+        "price": 799000,
+        "extraFee": 100000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "capcut",
+    "category": "Công cụ làm việc",
+    "name": "CapCut",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "pro-private-1-month",
+        "packageName": "CapCut Pro",
+        "accountType": "Tài khoản cấp dùng riêng",
+        "duration": "1 tháng",
+        "price": 50000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "pro-team-6-months",
+        "packageName": "CapCut Pro",
+        "accountType": "Chính chủ",
+        "duration": "6 tháng",
+        "price": 489000,
+        "extraFee": 30000,
+        "note": "Gói đội nhóm",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "pro-owner-1-year",
+        "packageName": "CapCut Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": null,
+        "priceLabel": "Tạm dừng",
+        "extraFee": 10000,
+        "note": "Tạm dừng",
+        "warranty": "full",
+        "saleStatus": "paused"
+      }
+    ]
+  },
+  {
+    "id": "zoom",
+    "category": "Công cụ làm việc",
+    "name": "Zoom",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "pro-1-year",
+        "packageName": "Zoom Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 950000,
+        "extraFee": 49000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "adobe",
+    "category": "Công cụ làm việc",
+    "name": "Adobe",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "k12-1-year",
+        "packageName": "Adobe K12",
+        "accountType": "Tài khoản cấp",
+        "duration": "1 năm",
+        "price": 1150000,
+        "extraFee": 100000,
+        "note": "Sử dụng 5 PC, bảo hành 2 PC",
+        "warranty": "full",
+        "saleStatus": "active"
+      },
+      {
+        "id": "full-app-4-months",
+        "packageName": "Adobe full app",
+        "accountType": "Tài khoản cấp",
+        "duration": "4 tháng",
+        "price": 400000,
+        "extraFee": 40000,
+        "note": "3 thiết bị",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "canva-pro",
+    "category": "Công cụ làm việc",
+    "name": "Canva Pro",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-1-year",
+        "packageName": "Canva Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 159000,
+        "extraFee": 100000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "duolingo",
+    "category": "Công cụ học tập",
+    "name": "Duolingo",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "super-1-year",
+        "packageName": "Duolingo Super",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 250000,
+        "extraFee": 10000,
+        "note": "Thêm vào gia đình",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "quizlet",
+    "category": "Công cụ học tập",
+    "name": "Quizlet",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-1-year",
+        "packageName": "Quizlet",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 250000,
+        "extraFee": 100000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "drive-gemini-pro",
+    "category": "Công cụ học tập",
+    "name": "Drive 2TB + Gemini Pro",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-1-year",
+        "packageName": "Drive 2TB + Gemini Pro",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 599000,
+        "extraFee": 100000,
+        "note": "Thêm vào gia đình",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "quizzi",
+    "category": "Công cụ học tập",
+    "name": "Quizzi",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "vip-1-year",
+        "packageName": "Quizzi Vip",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 489000,
+        "extraFee": 100000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "coursera",
+    "category": "Công cụ học tập",
+    "name": "Coursera",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "business-1-month",
+        "packageName": "Coursera Business",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 130000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "youtube-premium",
+    "category": "Công cụ giải trí và xem phim",
+    "name": "YouTube Premium",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-1-year",
+        "packageName": "YouTube Premium",
+        "accountType": "Chính chủ",
+        "duration": "1 năm",
+        "price": 600000,
+        "extraFee": 100000,
+        "note": "Thêm vào gia đình",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "netflix",
+    "category": "Công cụ giải trí và xem phim",
+    "name": "Netflix",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "private-profile-1-month",
+        "packageName": "Netflix hồ sơ riêng",
+        "accountType": "Tài khoản cấp",
+        "duration": "1 tháng",
+        "price": 80000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "k-plus",
+    "category": "Công cụ giải trí và xem phim",
+    "name": "K+",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-3-months",
+        "packageName": "K+ chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "3 tháng",
+        "price": 320000,
+        "extraFee": 30000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "spotify",
+    "category": "Công cụ giải trí và xem phim",
+    "name": "Spotify",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "owner-4-months",
+        "packageName": "Spotify chính chủ",
+        "accountType": "Chính chủ",
+        "duration": "4 tháng",
+        "price": 160000,
+        "extraFee": 40000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "vieon",
+    "category": "Công cụ giải trí và xem phim",
+    "name": "Vieon",
+    "image": "/image.png",
+    "variants": [
+      {
+        "id": "vip-1-month",
+        "packageName": "Vieon Vip",
+        "accountType": "Chính chủ",
+        "duration": "1 tháng",
+        "price": 49000,
+        "extraFee": 10000,
+        "note": "Ổn định",
+        "warranty": "full",
+        "saleStatus": "active"
+      }
+    ]
+  }
+]

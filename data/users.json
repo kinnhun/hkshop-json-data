@@ -1,3 +1,12 @@
 [
-  
+  {
+    "id": "USR-892DB0BB",
+    "name": "asss",
+    "phone": "123456789",
+    "email": "sss@gmail.com",
+    "passwordHash": "93d83ebec698d2e0166d67b0b8527487cf7e2bbff98d75907ae0ee0929b1619aa8849af9ce67fc28f71e154b29c2984f741f74ee1fd9116c3175bccb1731fa41",
+    "salt": "5d081cf47222623c569512915454bfe4",
+    "createdAt": "2026-04-16T16:43:27.193Z",
+    "updatedAt": "2026-04-16T16:43:27.193Z"
+  }
 ]
